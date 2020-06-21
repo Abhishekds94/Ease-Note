@@ -1,0 +1,2 @@
+rootProject.name='Ease Note'
+include ':app'
